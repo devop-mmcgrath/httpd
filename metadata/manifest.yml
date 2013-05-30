@@ -1,6 +1,7 @@
 Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
+Source-Url: https://github.com/mmcgrath-openshift/httpd-example.git
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
 License: "None"
