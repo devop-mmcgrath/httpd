@@ -28,7 +28,7 @@ case "$1" in
   reload)      catchall ;;
   tidy)        catchall ;;
   pre-build)   catchall ;;
-  build)       build ;;
+  build)       catchall ;;
   deploy)      catchall ;;
   post-deploy) catchall ;;
   *)           exit 0
